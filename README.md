@@ -15,10 +15,15 @@ Team Member-Parmeet Kour
 
 Team Member-Novneet Kour
 
+Team Member-Swasti Gupta
+
+Team Member-Mohammad Shahid
+
+
 "Introducing a Cutting-Edge AI-Powered Augmented Reality Companion: Revolutionizing Personalized Career Counseling for Students"
 
 # Abstract
-In today's rapidly evolving educational landscape, students face the daunting task of choosing their career paths. Our innovative Artificial Intelligence (AI) based Augmented Reality (AR) bot/humanoid is here to bridge this gap, offering students a comprehensive career counseling experience like never before.
+
 
 ### Objectives
 1. With the integration of state-of-the-art technologies such as Generative AI and Conversational AI, coupled with an extensive dataset, our platform delivers tailored career guidance, resources, and counseling to each individual.
